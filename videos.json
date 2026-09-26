@@ -1,0 +1,10 @@
+{
+  "videos": [
+    {
+      "id": "video_001",
+      "url": "https://www.youtube.com/watch?v=hN_ZUElLH44",
+      "category": "general",
+      "max_clips": 5
+    }
+  ]
+}
