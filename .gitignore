@@ -1,2 +1,17 @@
+# Environments
 venv/
-venv
+.venv/
+env/
+
+# Secrets and Configs
+.env
+.env.local
+
+# Media and Downloads
+videos/*
+!videos/.gitkeep
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
